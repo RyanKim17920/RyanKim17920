@@ -3,7 +3,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ryankim17920/)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:ryankim17920@gmail.com)
 
-I'm a student researcher working at the intersection of **AI and healthcare**. I build ML systems that solve real problems in oncology, genomics, and medical imaging.
+I'm a student researcher working on the applications of **AI in healthcare**. I build ML systems that solve real problems in oncology, genomics, and medical imaging.
 
 ## What I'm Working On
 

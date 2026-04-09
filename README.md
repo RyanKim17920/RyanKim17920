@@ -13,4 +13,4 @@ I'm a student researcher working on the applications of **AI in healthcare**. I 
 
 ## Previous Research
 
-- **Research Intern @ [Advanced Computing & Oncology Lab, MSK](https://www.mskcc.org/research-areas/research-teams/advanced-computing-and-oncology-lab)** — Built DSPy-optimized LLM pipelines to extract disease progression events from clinical reports. Abstract accepted at ACRO 2026.
+- **Research Intern @ [Advanced Computing & Oncology Lab, MSK](https://www.mskcc.org/research-areas/research-teams/advanced-computing-and-oncology-lab)** — Built DSPy-optimized LLM pipelines to extract disease progression events and referral events from CT/PET/clinical reports. Abstract accepted at ACRO 2026.

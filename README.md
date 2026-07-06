@@ -9,7 +9,6 @@ I'm a student researcher working on the applications of **AI in healthcare**. I 
 
 - **Research Intern @ [AI in Medicine & Computational Biology Lab, WCM](https://ihlab.med.cornell.edu/)** — Investigating systematic bias in AI tumor purity estimators across TCGA and internal cohorts.
 - **[Simons Summer Research Fellow](https://www.stonybrook.edu/simons/) @ [Yurovsky Lab, Stony Brook](https://ayurovsky.github.io/)** — Developed DNABERT-based prognostic models predicting glioblastoma survival from non-coding regulatory DNA mutations.
-- **Founder @ [Papers2Code.org](https://papers2code.org)** — Platform indexing 300k+ ML/AI papers lacking code, with a pipeline mapping papers to GitHub repos.
 
 ## Previous Research
 
